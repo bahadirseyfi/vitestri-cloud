@@ -1,6 +1,6 @@
 # Bahadir Seyfi
 
-# Exercise 1 — Cloud Strategy: Guiding Principles
+# Exercise 1
 
 Below are six guiding principles for successful cloud adoption at Vitestro.
 
@@ -8,7 +8,7 @@ Below are six guiding principles for successful cloud adoption at Vitestro.
 
 ## 1. Single Cloud, Multi-Region
 
-Adopt a single cloud provider (**Azure**) deployed across multiple regions to balance operational simplicity with geographic reach.
+Adopt a single cloud provider deployed across multiple regions to balance operational simplicity with geographic reach.
 
 **Rationale:**  
 Vitestro is a ~70-person company entering its commercial phase. Operating multiple cloud providers would multiply operational complexity, require broader skill sets, increase the compliance surface, and duplicate baseline platform costs without clear benefit at this stage.
